@@ -4,6 +4,7 @@ langchain-community
 openai
 faiss-cpu
 PyPDF2
+tiktoken
 python-docx
 PyPDF
 gspread
